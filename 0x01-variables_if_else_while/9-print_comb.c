@@ -6,7 +6,7 @@
 * Return: Always 0 (Success)
 */
 
-int num(void)
+int main(void)
 {
 int num;
 
